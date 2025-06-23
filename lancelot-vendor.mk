@@ -9,7 +9,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/LDC_packdata_xiaomi_J19_Ofilm_3280x2464.dat:$(TARGET_COPY_OUT_VENDOR)/bin/LDC_packdata_xiaomi_J19_Ofilm_3280x2464.dat \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/LDC_packdata_xiaomi_J19_QTech_3264x2448.dat:$(TARGET_COPY_OUT_VENDOR)/bin/LDC_packdata_xiaomi_J19_QTech_3264x2448.dat \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/charon:$(TARGET_COPY_OUT_VENDOR)/bin/charon \
-    vendor/xiaomi/lancelot/proprietary/vendor/bin/factory:$(TARGET_COPY_OUT_VENDOR)/bin/factory \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/factory_bin:$(TARGET_COPY_OUT_VENDOR)/bin/factory_bin \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/fuelgauged_nvram:$(TARGET_COPY_OUT_VENDOR)/bin/fuelgauged_nvram \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/hw/android.hardware.secure_element@1.2-service-mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.secure_element@1.2-service-mediatek \
@@ -37,7 +36,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/libccu_s5k4h7yx_qtech_front_mipi_raw.pm:$(TARGET_COPY_OUT_VENDOR)/bin/libccu_s5k4h7yx_qtech_front_mipi_raw.pm \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/libccu_s5k4h7yx_qtech_ultra_mipi_raw.dm:$(TARGET_COPY_OUT_VENDOR)/bin/libccu_s5k4h7yx_qtech_ultra_mipi_raw.dm \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/libccu_s5k4h7yx_qtech_ultra_mipi_raw.pm:$(TARGET_COPY_OUT_VENDOR)/bin/libccu_s5k4h7yx_qtech_ultra_mipi_raw.pm \
-    vendor/xiaomi/lancelot/proprietary/vendor/bin/meta_tst:$(TARGET_COPY_OUT_VENDOR)/bin/meta_tst \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/mnld:$(TARGET_COPY_OUT_VENDOR)/bin/mnld \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/nusensors:$(TARGET_COPY_OUT_VENDOR)/bin/nusensors \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/nusensors_new:$(TARGET_COPY_OUT_VENDOR)/bin/nusensors_new \
