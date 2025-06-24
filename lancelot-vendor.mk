@@ -8,12 +8,9 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_COPY_FILES += \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/LDC_packdata_xiaomi_J19_Ofilm_3280x2464.dat:$(TARGET_COPY_OUT_VENDOR)/bin/LDC_packdata_xiaomi_J19_Ofilm_3280x2464.dat \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/LDC_packdata_xiaomi_J19_QTech_3264x2448.dat:$(TARGET_COPY_OUT_VENDOR)/bin/LDC_packdata_xiaomi_J19_QTech_3264x2448.dat \
-    vendor/xiaomi/lancelot/proprietary/vendor/bin/charon:$(TARGET_COPY_OUT_VENDOR)/bin/charon \
-    vendor/xiaomi/lancelot/proprietary/vendor/bin/factory_bin:$(TARGET_COPY_OUT_VENDOR)/bin/factory_bin \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/fuelgauged_nvram:$(TARGET_COPY_OUT_VENDOR)/bin/fuelgauged_nvram \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/hw/android.hardware.secure_element@1.2-service-mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.secure_element@1.2-service-mediatek \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/hw/camerahalserver:$(TARGET_COPY_OUT_VENDOR)/bin/hw/camerahalserver \
-    vendor/xiaomi/lancelot/proprietary/vendor/bin/initprop_bin:$(TARGET_COPY_OUT_VENDOR)/bin/initprop_bin \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/libccu_ov13b10_ofilm_mipi_raw.dm:$(TARGET_COPY_OUT_VENDOR)/bin/libccu_ov13b10_ofilm_mipi_raw.dm \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/libccu_ov13b10_ofilm_mipi_raw.pm:$(TARGET_COPY_OUT_VENDOR)/bin/libccu_ov13b10_ofilm_mipi_raw.pm \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/libccu_ov13b10_qtech_mipi_raw.dm:$(TARGET_COPY_OUT_VENDOR)/bin/libccu_ov13b10_qtech_mipi_raw.dm \
@@ -41,8 +38,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/nusensors_new:$(TARGET_COPY_OUT_VENDOR)/bin/nusensors_new \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/nvram_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/nvram_daemon \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/pnscr:$(TARGET_COPY_OUT_VENDOR)/bin/pnscr \
-    vendor/xiaomi/lancelot/proprietary/vendor/bin/starter:$(TARGET_COPY_OUT_VENDOR)/bin/starter \
-    vendor/xiaomi/lancelot/proprietary/vendor/bin/stroke:$(TARGET_COPY_OUT_VENDOR)/bin/stroke \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/teei_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/teei_daemon \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/volte_imcb:$(TARGET_COPY_OUT_VENDOR)/bin/volte_imcb \
     vendor/xiaomi/lancelot/proprietary/vendor/bin/volte_ua:$(TARGET_COPY_OUT_VENDOR)/bin/volte_ua \
